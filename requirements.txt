@@ -1,0 +1,24 @@
+# ----- CORE ANALYTICS -------------------------------------------------
+numpy==2.3.1            # Arrays & linear algebra :contentReference[oaicite:0]{index=0}
+pandas==2.3.0           # Tabular data structures :contentReference[oaicite:1]{index=1}
+scipy==1.16.0           # Scientific algorithms & stats :contentReference[oaicite:2]{index=2}
+scikit-learn==1.7.0     # Machine-learning toolkit :contentReference[oaicite:3]{index=3}
+
+# ----- VISUALISATION --------------------------------------------------
+matplotlib==3.10.3      # 2-D plots (needed by many libs) :contentReference[oaicite:4]{index=4}
+seaborn==0.13.2         # Statistical graphics on top of mpl :contentReference[oaicite:5]{index=5}
+plotly==6.1.2           # Interactive dashboards & 3-D plots 
+
+# ----- STATISTICAL MODELLING -----------------------------------------
+statsmodels==0.14.4     # GLMs, time-series, robust stats … :contentReference[oaicite:7]{index=7}
+
+# ----- NOTEBOOK / INTERACTIVITY --------------------------------------
+notebook==7.4.3         # Classic Jupyter server :contentReference[oaicite:8]{index=8}
+jupyterlab==4.4.3       # Modern IDE-style UI (optional) :contentReference[oaicite:9]{index=9}
+ipykernel==6.29.5       # Python kernel that Notebooks run in :contentReference[oaicite:10]{index=10}
+ipywidgets==8.1.7       # Interactive widgets/sliders :contentReference[oaicite:11]{index=11}
+
+# ----- DOMAIN-SPECIFIC EXTRAS ----------------------------------------
+scikit-image==0.25.2    # Image processing helpers :contentReference[oaicite:12]{index=12}
+xgboost==3.0.2          # Gradient-boosted trees (CPU/GPU) :contentReference[oaicite:13]{index=13}
+lightgbm==4.6.0         # Fast GBM from Microsoft :contentReference[oaicite:14]{index=14}
