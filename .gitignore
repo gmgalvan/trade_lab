@@ -170,7 +170,7 @@ out/
 
 # Data Science specific
 # Large data files
-*.csv
+#*.csv
 *.tsv
 *.json
 *.xlsx

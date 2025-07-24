@@ -1,6 +1,6 @@
-# Jupyter Data Science Template Starter
+# Trading Laboratory
 
-A streamlined template for data science projects using Jupyter notebooks with Python virtual environments.
+Notes and code for tradign startegies and also quant fianance.
 
 ## Prerequisites
 
